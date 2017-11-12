@@ -1,4 +1,4 @@
-package com.pam.surveyapp;
+package com.pam.surveyappwithdatabase;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -7,6 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.CursorAdapter;
 import android.widget.TextView;
+
 
 
 public class SurveyListAdapter extends CursorAdapter {

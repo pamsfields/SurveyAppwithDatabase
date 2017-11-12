@@ -1,4 +1,4 @@
-package com.pam.surveyapp;
+package com.pam.surveyappwithdatabase;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

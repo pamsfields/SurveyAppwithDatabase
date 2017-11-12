@@ -1,4 +1,4 @@
-package com.pam.surveyapp;
+package com.pam.surveyappwithdatabase;
 
 import android.content.Context;
 import android.content.Intent;
@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
 
 public class ResultsActivity extends AppCompatActivity {
 
@@ -33,7 +34,7 @@ public class ResultsActivity extends AppCompatActivity {
         continueButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                setResult(SurveyActivity.RESULT_CANCELED);
+                setResult(RESULT_CANCELED);
                 finish();
             }
         });

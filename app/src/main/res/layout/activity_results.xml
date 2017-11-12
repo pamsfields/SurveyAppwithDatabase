@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.pam.surveyapp.ResultsActivity">
+    tools:context="com.pam.surveyappwithdatabase.ResultsActivity">
 
     <LinearLayout
         android:layout_width="wrap_content"

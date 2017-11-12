@@ -1,4 +1,4 @@
-package com.pam.surveyapp;
+package com.pam.surveyappwithdatabase;
 
 import android.content.ContentValues;
 import android.content.Context;
