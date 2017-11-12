@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SurveyApp</string>
+    <string name="answer1_button">Yes</string>
+    <string name="answer2_button">No</string>
+    <string name="question_text">Are you excited for Daylights Savings Time ending?</string>
+    <string name="thanks_toast">Thank You!</string>
+    <string name="yes_count_text">Yes Counts: </string>
+    <string name="no_count_text">No Counts: </string>
+    <string name="reset_button_text">Reset</string>
+    <string name="continue_button_text">Continue</string>
+    <string name="results_button">See Results of the Survey</string>
+    <string name="custom_button">Customize Survey!</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="custom_question_text">What would you like the survey question to be?</string>
+    <string name="possible_answer1">Type possible answer 1 here</string>
+    <string name="possible_answer2">Type possible answer 2 here</string>
+</resources>
